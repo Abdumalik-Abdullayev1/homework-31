@@ -6,6 +6,7 @@
     &_mobile{
         display: flex;
         flex-direction: column;
+        margin-top: 100px;
         gap: 15px;
         &-title{
             width: 100%;
@@ -77,6 +78,7 @@
     .hero{
         .hero_tablet{
             display: block;
+            margin-top: 120px;
         }
         &_mobile{
             display: none;
